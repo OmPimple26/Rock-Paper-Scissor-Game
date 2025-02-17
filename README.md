@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor-Game
-This game is created using python
+This game is created by using Python language
